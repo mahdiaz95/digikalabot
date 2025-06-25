@@ -1,0 +1,19 @@
+sudo apt install
+sudo apt upgrade
+sudo apt-get update 
+sudo apt install nano
+sudo apt install python3
+sudo apt install python3-pip
+sudo apt install python3-venv
+#ubunto 22.04
+pip install aiofiles
+pip install playwright
+playwright install
+playwright install-deps 
+pip install APScheduler
+pip install python-telegram-bot[socks]
+pip install aiohttp
+pip install persiantools
+pip install pandas
+pip install openpyxl
+pip install --upgrade httpx python-telegram-bot
