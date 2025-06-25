@@ -40,8 +40,6 @@ from telegram import Update
 from telegram.ext import ContextTypes, ConversationHandler
 
 ASK_TOKEN = 0
-
-
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     user_id = update.message.from_user.id
     if user_id in AUTHORIZED_USERS:
