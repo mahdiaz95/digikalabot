@@ -34,8 +34,7 @@ This project is an **automated Telegram bot** that helps Digikala sellers period
     Set your bot token and authorized users in the code or via environment variables.
 
     Run the bot:
-
-python main.py
+    python main.py
 
 ## 🔒 Access Control
 
