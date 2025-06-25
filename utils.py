@@ -397,4 +397,5 @@ async def get_digikala_productsprices(product_id: str):
 
     if not variant_data:
         return None
+        
     return variant_data
