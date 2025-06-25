@@ -37,11 +37,11 @@ This project is an **automated Telegram bot** that helps Digikala sellers period
 
 python main.py
 
-##🔒 Access Control
+## 🔒 Access Control
 
 Only users listed in the AUTHORIZED_USERS dictionary are allowed to use the bot.
 
-⚠️ Important Notes
+## ⚠️ Important Notes
 
 Only specific columns in the Excel file should be edited.
 Prices must be reasonable and valid.
