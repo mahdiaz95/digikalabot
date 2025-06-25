@@ -34,7 +34,7 @@ htmlcov/
 
 .DS_Store
 
-
-*.log
 *.sqlite3
+*.log
+
 *.db
